@@ -14,6 +14,9 @@ print ("tha value of c is" +c)
 print("{} {}".format("The value of a is", a))
 print(type(a))
 print("Avantika")
+print("Github")
+print("clone")
+
 
 
 
